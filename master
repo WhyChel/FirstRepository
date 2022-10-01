@@ -1,7 +1,13 @@
-echo "# FirstRepository" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/WhyChel/FirstRepository.git
-git push -u origin main
+!doctype HTML>
+<HEAD>
+<TITLE>Оcновы тестирования ПО</TITLE>
+</HEAD>
+<BODY bgcolor="CCFFFF" face="Monotype Corsiva">
+<h1 allign="center" GidHub <br>
+<hr noshade width="80%" color="orange" size="10" >
+<img scr="ПО.jpg" align="left" width="600" height="410">
+Програ́ммное обеспе́чение — программа или множество программ, используемых для управления компьютером.
+</p>
+<hr noshade width="80%" color="orange" size="10" >
+</BODY>
+</HTML>
